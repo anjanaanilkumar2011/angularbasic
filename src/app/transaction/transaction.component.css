@@ -1,0 +1,16 @@
+table, tr,th, td {
+    color: aliceblue;
+    border: white 2px dashed;
+    padding: 10px;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+  .a1
+  {
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+    
+  }
